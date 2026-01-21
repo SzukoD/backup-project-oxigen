@@ -97,11 +97,11 @@ Aplikasi ini bertujuan membantu pengguna mengelola latihan, nutrisi, dan progres
 
 | Nama                  | Peran                  | Contact (Email)                 |
 |-----------------------|------------------------|-------------------------------|
-| 👨‍💻 Fahridzal nur Sidiq | Frontend Developer      | fahridzal@gmail.com          |
-| 👨‍💻 Ahmad Farhannudin  | Backend Developer       | ahmadf@gmail.com             |
-| 👨‍💻 M Dafa Dwi Saputra | Database Engineer       | mdafa@gmail.com              |
-| 🎨 Zul Fikri Nugroho   | UI/UX Designer          | zulfikri@gmail.com           |
-| 🧑‍💼 Mohammad Rifaldy  | Project Manager         | rifaldy@gmail.com            |
+| 👨‍💻 Fahridzal nur Sidiq | Frontend Developer      |       |
+| 👨‍💻 Ahmad Farhannudin  | Backend Developer       | |
+| 👨‍💻 M Dafa Dwi Saputra | Database Engineer       |              |
+| 🎨 Zul Fikri Nugroho   | UI/UX Designer          |           |
+| 🧑‍💼 Mohammad Rifaldy  | Project Manager         |          |
 
 ---
 
