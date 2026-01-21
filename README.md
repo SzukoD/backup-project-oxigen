@@ -4,7 +4,7 @@
 
 <!-- HEADER ANIMASI -->
 <p align="center">
-  <img src="public/assets/gambar/elaina.gif" alt="Anime GIF" width="500" />
+  <img src="uploads/elaina.gif" alt="Anime GIF" width="500" />
 </p>
 
 <!-- BADGES -->
