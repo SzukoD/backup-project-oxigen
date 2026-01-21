@@ -58,10 +58,10 @@ Aplikasi ini bertujuan membantu pengguna mengelola latihan, nutrisi, dan progres
 
 ### Apa yang bisa kamu lakukan?
 
-- ✅ Melacak latihan harian dan progres kebugaran (coming soon)
-- ✅ Mengakses video tutorial interaktif (coming soon)
-- ✅ Mendapatkan jadwal latihan yang dipersonalisasi (coming soon)
-- ✅ Memantau nutrisi dan asupan kalori (coming soon)
+- ✅ Melacak latihan harian dan progres kebugaran
+- ✅ Mengakses video tutorial interaktif
+- ✅ Mendapatkan jadwal latihan yang dipersonalisasi
+- ✅ Memantau nutrisi dan asupan kalori
 - ✅ Scan barcode makanan dan minuman
 
 ---
