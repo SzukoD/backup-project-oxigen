@@ -76,7 +76,7 @@ Aplikasi ini bertujuan membantu pengguna mengelola latihan, nutrisi, dan progres
 | 🥗 Nutrisi Terintegrasi  | Kalkulator kalori & scan barcode makanan/minuman        |
 | 🌐 Mode Online           | Akses aplikasi kapan saja                              |
 | 🔒 Autentikasi Login PHP Mailer | Login dengan email yang aktif dengan auth otp          |     
-| 🔒 Autentikasi Google    | Login dengan akun Google (OAuth 2.0)  _(coming soon)_  |
+| 🔒 Autentikasi Google    | Login dengan akun Google (OAuth 2.0)  |
 
 ---
 
