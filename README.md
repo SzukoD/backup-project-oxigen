@@ -120,12 +120,14 @@ Aplikasi ini bertujuan membantu pengguna mengelola latihan, nutrisi, dan progres
 git clone https://github.com/username/project-oxigen.git
 
 # 2. Pindahkan folder ke web server (XAMPP htdocs)
-mv project-oxigen C:/xampp/htdocs/
+mv project-oxigen C:/xampp/htdocs/ dan jangan lupa folder projectnya diganti nama menjadi atmin
 
 # 3. Import database MySQL via phpMyAdmin atau CLI
 # Buat database baru lalu import file .sql yang ada di folder database
 
 # 4. Jalankan XAMPP (Apache & MySQL)
+# 5. Jalankan di web browser dengan link http://localhost/atmin/dist/index.php (untuk aksews admin)
+# link http://localhost/atmin/landing%20page/index.php (untuk aksews member)
 
 
 
