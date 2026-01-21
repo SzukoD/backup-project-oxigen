@@ -70,11 +70,11 @@ Aplikasi ini bertujuan membantu pengguna mengelola latihan, nutrisi, dan progres
 
 | 🔥 Fitur                | 📋 Deskripsi & Status                  |
 |-------------------------|-------------------------------------|
-| 📅 Scheduler Pintar      | Rekomendasi jadwal latihan sesuai target _(coming soon)_ |
-| 🎥 Video Trainer         | Panduan latihan berbasis video _(coming soon)_          |
-| 📊 Progress Tracker      | Grafik perkembangan performa _(coming soon)_            |
+| 📅 Scheduler Pintar      | Rekomendasi jadwal latihan sesuai target  |
+| 🎥 Video Trainer         | Panduan latihan berbasis video          |
+| 📊 Progress Tracker      | Grafik perkembangan performa             |
 | 🥗 Nutrisi Terintegrasi  | Kalkulator kalori & scan barcode makanan/minuman        |
-| 🌐 Mode Online           | Akses aplikasi kapan saja                              |
+| 🌐 Mode Online           | Akses aplikasi kapan saja (Coming Soon)                             |
 | 🔒 Autentikasi Login PHP Mailer | Login dengan email yang aktif dengan auth otp          |     
 | 🔒 Autentikasi Google    | Login dengan akun Google (OAuth 2.0)  |
 
