@@ -117,7 +117,7 @@ Aplikasi ini bertujuan membantu pengguna mengelola latihan, nutrisi, dan progres
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/username/project-oxigen.git
+git clone https://github.com/username/backup-project-oxigen
 
 # 2. Pindahkan folder ke web server (XAMPP htdocs)
 mv project-oxigen C:/xampp/htdocs/ dan jangan lupa folder projectnya diganti nama menjadi atmin
